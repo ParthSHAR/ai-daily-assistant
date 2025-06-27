@@ -23,7 +23,7 @@ A personal AI-powered daily assistant built using **Python** and **Tkinter**, de
 
 ## 📸 Screenshot
 
-*(Add a screenshot or gif here if you want!)*
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/349e2624-f0de-4941-8e6e-4cb13ed74295" />
 
 ## 🛠️ How to Run
 
